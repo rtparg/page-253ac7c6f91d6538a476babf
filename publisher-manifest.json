@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1c461349259d6463fb509e1a",
+  "owner": "rtparg",
+  "repo": "page-253ac7c6f91d6538a476babf",
+  "title": "azi加速器(azi)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "253ac7c6f91d6538a476babf",
+      "a": "azi加速器(azi)",
+      "b": "机场官网线路发布页",
+      "entity": "azi加速器(azi)",
+      "brand": "azi加速器(azi)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "247ee3e19e39c5670eff0611f10526484d1e210407da0a58c06f7c66798f61ea",
+      "content": {
+        "primary_entity": "azi加速器(azi)",
+        "keyword1": "azi加速器(azi)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "依据日常设备挑选适配客户端：桌面端 Clash Verge、移动端 Shadowrocket，订阅导入后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端按设备选配",
+          "AI_CLOSING_TEXT": "选好设备与套餐，导入订阅就能开始体验。",
+          "AI_CLOSING_TITLE": "即刻配置 azi 加速器",
+          "AI_DESCRIPTION": "，azi加速器(azi)提供基础版、旗舰版与团队版三档套餐，覆盖 3 至 20 台设备在线。旗舰版配备 IPLC 专线与流媒体解锁，适合游戏和追剧用户；团队版提供 VIP 高带宽节点与企业定制路由。年付可节省两个月费用，订阅支持主流客户端导入，按实际设备数量选择即可。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。同一时间在线超出限制可能导致连接中断，建议按常用设备数量选择。",
+          "AI_FAQ_ANSWER_2": "月付灵活，年付可节省两个月费用：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。流量需求稳定时年付更划算。",
+          "AI_FAQ_ANSWER_3": "基础版解锁基础流媒体，旗舰版支持全节点原生流媒体解锁，团队版搭载 VIP 高带宽节点。需要多平台流媒体可选旗舰版及以上。",
+          "AI_FAQ_ANSWER_4": "旗舰版针对游戏场景提供 IPLC 专线加速优化，并配有 7x24 优先工单支持。团队版支持企业定制路由，适合多人协作使用。",
+          "AI_FAQ_ANSWER_5": "套餐流量分别为 100GB、300GB、1000GB 每月，超额后需等待下月重置或升级套餐。重度下载或多人共享建议直接选团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版分别支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "套餐的月付和年付价格分别是多少？年付划算吗？",
+          "AI_FAQ_QUESTION_3": "想解锁流媒体，选哪个套餐比较合适？",
+          "AI_FAQ_QUESTION_4": "玩游戏需要专线加速，哪个套餐提供？",
+          "AI_FAQ_QUESTION_5": "每月流量不够用怎么办？可以升级吗？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "按流量、设备数和线路类型对比三档套餐，找到匹配使用习惯的选择。",
+          "AI_FEATURES_TITLE": "套餐怎么选",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 流量与 3 台设备适合轻量浏览；旗舰版 300GB 与 5 台设备兼顾流媒体和游戏。",
+          "AI_FEATURE_TEXT_2": "桌面端可用 Clash Verge，移动端可用 Shadowrocket，订阅配置在客户端内完成更新。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，相当于节省两个月费用。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备配客户端",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成基本配置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "azi加速器(azi)提供多档海外网络加速套餐，覆盖个人浏览、流媒体解锁与游戏专线加速。按设备数量和月流量选择基础版、旗舰版或团队版，再通过订阅导入主流客户端即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付节省两个月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，分别对应 3、5、20 台设备，可按在线设备数与流量需求对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，从基础版、旗舰版、团队版中选定合适套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统，桌面端可选 Clash Verge，移动端可选 Shadowrocket，核对订阅格式适配要求。",
+          "AI_STEP_TEXT_3": "在客户端内按文档导入订阅地址，完成节点更新后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "azi加速器套餐入口"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zpbhs.cn",
+    "host": "zpbhs.cn"
+  },
+  "file_hashes": {
+    "index.html": "96ffcfde402a2c739a4c5baff4290220008e5b5471c5ad9a3c180a958caa890f",
+    "sitemap.xml": "5e2da37af5f95ec5dbd3a1fb6d304f93c270c3b6619435ed042df93fb599d6fb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "158c38df2d0f19f1145187b72f2a085b6348a291da49e4ddfcf5799dc71d161b",
+    "robots.txt": "d1ea7605a7705d178f7c1343cc22ff62330c8315d4dd7b2d83275e40fbe97733",
+    "197b0e765c728eb85e910baa42552a0a.txt": "20da32645b3c2ce9dd8d475f9db75cbd0997983556bb3612e829b7c35f698f8e"
+  },
+  "revision": "0dae6af2e13f0b0a7fcabed21df74236cca6681f43eaaf0353d02699f9ace10a"
+}
